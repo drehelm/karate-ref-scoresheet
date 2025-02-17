@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KarateScorer/karate-ref-scoresheet/static/css/main.e5dbb327.css",
-    "main.js": "/KarateScorer/karate-ref-scoresheet/static/js/main.abbcbf46.js",
+    "main.js": "/KarateScorer/karate-ref-scoresheet/static/js/main.8cddf440.js",
     "index.html": "/KarateScorer/karate-ref-scoresheet/index.html",
     "main.e5dbb327.css.map": "/KarateScorer/karate-ref-scoresheet/static/css/main.e5dbb327.css.map",
-    "main.abbcbf46.js.map": "/KarateScorer/karate-ref-scoresheet/static/js/main.abbcbf46.js.map"
+    "main.8cddf440.js.map": "/KarateScorer/karate-ref-scoresheet/static/js/main.8cddf440.js.map"
   },
   "entrypoints": [
     "static/css/main.e5dbb327.css",
-    "static/js/main.abbcbf46.js"
+    "static/js/main.8cddf440.js"
   ]
 }
