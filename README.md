@@ -1,6 +1,6 @@
 # Karate Ref Scoresheet
 
-A web app for scoring karate tournament divisions built with **React** and **Tailwind CSS v3**. Supports real-time scoring adjustments and placement updates with automatic score recalculations.
+A web app for karate referees to track competitors, assign rankings, and calculate scores during tournament divisions. Built with **React** and **Tailwind CSS v3**, it supports real-time scoring adjustments and placement updates with automatic score recalculations.
 
 ## 🚀 Features
 - Add, remove, and rank competitors.
@@ -11,8 +11,8 @@ A web app for scoring karate tournament divisions built with **React** and **Tai
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/herrkutt/KarateScorer.git
-   cd KarateScorer
+   git clone https://github.com/drehelm/karate-ref-scoresheet.git
+   cd karate-ref-scoresheet
    ```
 2. Install dependencies:
    ```bash
@@ -30,7 +30,7 @@ A web app for scoring karate tournament divisions built with **React** and **Tai
 ## 🚀 Deployment to GitHub Pages
 1. Ensure `homepage` is set correctly in `package.json`:
    ```json
-   "homepage": "https://herrkutt.github.io/KarateScorer"
+   "homepage": "https://drehelm.github.io/karate-ref-scoresheet"
    ```
 2. Build and deploy:
    ```bash
@@ -54,4 +54,4 @@ A web app for scoring karate tournament divisions built with **React** and **Tai
 - Submit a pull request.
 
 ---
-**Maintainer:** herrkutt
+**Maintainer:** drehelm

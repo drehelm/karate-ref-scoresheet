@@ -2,13 +2,12 @@
   "name": "karate-ref-scoresheet",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://herrkutt.github.io/karate-ref-scoresheet/",
+  "homepage": "https://drehelm.github.io/karate-ref-scoresheet/",
   "scripts": {
     "build:css": "npx tailwindcss -i ./src/index.css -o ./src/output.css",
     "start": "npm run build:css && react-scripts start",
     "build": "npm run build:css && react-scripts build",
     "predeploy": "npm run build",
-    "cleanup": "rm -rf node_modules package-lock.json",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
